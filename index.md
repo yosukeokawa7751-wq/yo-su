@@ -4,7 +4,7 @@ title: yo-su
 
 # yo-su
 
-個人で iPhone・iPad のアプリを作っています。
+個人で iPhone・iPad・Mac のアプリを作っています。
 
 ## マズメナビ
 
@@ -12,5 +12,12 @@ title: yo-su
 
 - [サポート・お問い合わせ](support)
 - [プライバシーポリシー](privacy)
+
+## Why So Slow?
+
+Mac が重い・熱い・電池がすぐ減る時に、その原因と対処を日本語で教えるメニューバーのアプリです。
+
+- [サポート・お問い合わせ](why-so-slow/support)
+- [プライバシーポリシー](why-so-slow/privacy)
 
 お問い合わせ：yosu.works.support@gmail.com
