@@ -17,7 +17,7 @@ title: yo-su
 
 Mac が重い・熱い・電池がすぐ減る時に、その原因と対処を日本語で教えるメニューバーのアプリです。
 
-- [サポート・お問い合わせ](why-so-slow/support)
-- [プライバシーポリシー](why-so-slow/privacy)
+- [サポート・お問い合わせ](https://yo-su.com/why-so-slow/)（yo-su.com に移りました）
+- [プライバシーポリシー](https://yo-su.com/why-so-slow/privacy/)
 
 お問い合わせ：yosu.works.support@gmail.com
